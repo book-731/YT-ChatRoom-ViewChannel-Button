@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "YT-ChatRoom-ViewChannel-Button",
+  "version": "1.0",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/live_chat*"],
+      "js": ["content.js"]
+    }
+  ]
+}
