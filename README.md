@@ -6,8 +6,9 @@
 
 ## 操作例子
 
-游標懸停在聊天室留言上，右手邊就會有前往頻道按鈕，點擊即可。
-<img width="732" height="81" alt="image" src="https://github.com/user-attachments/assets/ea6478b8-c7a5-4cd6-ab35-155cdbaac4ee" />
+1. 前往任何一個 **YouTube 直播間**。
+2. 在右側聊天室，將滑鼠移動到任何一則訊息上。
+3. 點擊訊息右方出現的 **「前往頻道」** 按鈕即可。
 
 ## 安裝教學
 
